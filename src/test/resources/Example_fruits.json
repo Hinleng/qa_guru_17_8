@@ -1,0 +1,10 @@
+{
+  "fruits" : [
+    "apple", "banana", "orange", "mango"
+  ],
+  "color": "red",
+  "weight" : 0.25,
+  "vitamins": "C",
+  "organic": true,
+  "price" : 1.99
+}
